@@ -9,3 +9,4 @@ Bartek98-98/Bartek98-98 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 I'm checking right now how to use GitHub
+WHat now ?
